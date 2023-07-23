@@ -7,6 +7,6 @@ Hello! 👋 I'm Gulsher, a passionate React Native Developer. Over the years, I'
 - 🔭 I’m currently working on company core product.
 - 🌱 I’m currently learning blockchain.
 - 👯 Alwasy ready to collab. I’m looking to collaborate on video trimmer in react native.
-⚡ Fun fact: I'm a good at finding effortless solutions due to my occasional lazy streak. Efficiency and optimization are my secret weapons! 🚀💡
+- ⚡ Fun fact: I'm a good at finding effortless solutions due to my occasional lazy streak. Efficiency and optimization are my secret weapons! 🚀💡
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulsher7&show_icons=true&theme=tokyonight)
