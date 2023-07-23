@@ -4,7 +4,7 @@
 
 Hello! 👋 I'm Gulsher, a passionate React Native Developer with a strong background in mobile app development. Over the years, I've had the privilege of working on various projects, honing my skills, and contributing to the growth of the React Native ecosystem through making YouTube content [Intellect Developer](https://www.youtube.com/channel/UCe4N2QmyaYQwPHQn82mZy3w).
 
-As a Team Lead in my current company, I find joy in mentoring and collaborating with fellow developers, fostering a positive and productive work environment. I believe in the power of teamwork and constantly strive to bring out the best in my team, pushing the boundaries of what we can achieve together.
+As a Team Lead in my current company, I find joy in mentoring and collaborating with fellow developers. I believe in the power of teamwork and constantly strive to bring out the best in my team, pushing the boundaries of what we can achieve together.
 
 Apart from coding, I'm always eager to stay updated with the latest industry trends and technologies, currenlty i'm learning blockchain.
 
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulsher7&show_icons=true&theme=tokyonight) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gulsher7&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulsher7&show_icons=true&theme=tokyonight)
