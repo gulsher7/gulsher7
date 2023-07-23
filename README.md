@@ -2,7 +2,7 @@
 
 💼 Team Lead at [Code Brew Labs](https://www.code-brew.com/)
 
-Hello! 👋 I'm Gulsher, a passionate React Native Developer with a strong background in mobile app development. Over the years, I've had the privilege of working on various projects, honing my skills, and contributing to the growth of the React Native ecosystem.
+Hello! 👋 I'm Gulsher, a passionate React Native Developer with a strong background in mobile app development. Over the years, I've had the privilege of working on various projects, honing my skills, and contributing to the growth of the React Native ecosystem through making YouTube content [Intellect Developer](https://www.youtube.com/channel/UCe4N2QmyaYQwPHQn82mZy3w).
 
 As a Team Lead in my current company, I find joy in mentoring and collaborating with fellow developers, fostering a positive and productive work environment. I believe in the power of teamwork and constantly strive to bring out the best in my team, pushing the boundaries of what we can achieve together.
 
