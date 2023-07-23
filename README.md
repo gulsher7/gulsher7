@@ -1,8 +1,7 @@
 
+Hello! 👋 I'm Gulsher
 
 💼 Team Lead at [Code Brew Labs](https://www.code-brew.com/)
-
-Hello! 👋 I'm Gulsher
 
 I'm a self-taught passionate React Native developer from India 🇮🇳
 
