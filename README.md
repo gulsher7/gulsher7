@@ -5,7 +5,7 @@ Hello! 👋 I'm Gulsher
 
 I'm a self-taught passionate React Native developer from India 🇮🇳
 
-# About Me
+## About Me
 - 📺 Checkout out my YouTube channel where I contributing to the growth of the React Native ecosystem [Intellect Developer](https://www.youtube.com/@IntellectDeveloper/videos)
 - 🔭 I’m currently working on company core product.
 - 🌱 I’m currently learning blockchain.
