@@ -11,4 +11,9 @@ I'm a self-taught passionate React Native developer from India 🇮🇳
 - 🌱 I’m currently learning nodeJS.
 - 👯 Alwasy ready to collab. I’m looking to collaborate on video trimmer in react native.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulsher7&show_icons=true&theme=tokyonight)
+
+
+![Gulsher's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulsher7&show_icons=true&theme=tokyonight)
+
+
+![Gulsher's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gulsher7&)
