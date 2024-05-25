@@ -8,8 +8,8 @@ I'm a self-taught passionate React Native developer from India 🇮🇳
 ## About Me
 - 📺 Checkout out my YouTube channel where I contributing to the growth of the React Native ecosystem [Intellect Developer](https://www.youtube.com/@IntellectDeveloper/videos)
 - 🔭 I’m currently working on company core product.
-- 🌱 I’m currently learning nodeJS.
-- 👯 Alwasy ready to collab. I’m looking to collaborate on video trimmer in react native.
+- 🌱 I’m currently learning swiftUI.
+- 👯 Alwasy ready to collab. I’m looking to collaborate on video editor in react native.
 
 
 
